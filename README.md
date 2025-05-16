@@ -1,3 +1,26 @@
 # ugee-signature-for-windows
-*Ugee-SDK（Windows）*Accessing the original handwriting data and touch data provides you with the ability to use in the application
-[GitHub](https://github.com)
+##介绍：
+这个Ugee签名SDK提供了最原始笔迹数据，包括但不限于笔X,Y,压感,笔状态,笔倾斜角度等相关原始数值，开发人员可直接获取原始数值，减少了手写签名被串改的风险。但是我们也提供了比较简单的演示程序，能让开发者快速的了解和使用我们的产品。
+演示程序：
+我们分别为数位板和数位屏做了两个不同的演示程序。以下步骤描述操作方法：
+##数位板：
+*将设备接入电脑主机
+*打开演示程序或者代码示例
+*首先点击打开设备按钮，随后就可以进行自由书写
+##数位屏：
+*将设备接入电脑主机
+*待屏幕显示正常后切换为扩展显示
+*打开演示程序或者代码示例
+*点击签名按钮就可以开始签名
+Ps:在演示程序中10.1寸屏必须要设置扩展后才能使用
+##开发环境：
+支持windwos 7及以上版本演示使用SDK
+示例代码语言：
+*C++
+*C#
+##示例代码：
+只需要引用libsign.dll就可以调用接口函数，开发工具最好在Visual Studio 2015及以上版本。如果您使用C#开发，建议安装 .NET Framework 4.0及以上版本
+ 
+##支持：
+如果您遇到技术组件问题，请参阅[相关常见](https://business.hanvonugee.com/en/faq/3)
+如需进一步支持，请在邮件中与我们联系: signature.software@ugee.com
