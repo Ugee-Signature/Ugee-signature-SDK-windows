@@ -22,4 +22,4 @@ Before running this example, you need to connect to the UGEE signature tablet/pa
 Some of the above attribute can only be supported and sent feedback values on specific signature models. Please see an example as below:
  ![Illustration](image/PenStatus.jpg)
 # Support:：
-If you encounter any technical issues, please refer to the FAQ on our website under [https://business.hanvonugee.com/en/faq(]https://business.hanvonugee.com/en/faq). 
+If you encounter any technical issues, please refer to the FAQ on our website under [https://business.hanvonugee.com/en/faq](https://business.hanvonugee.com/en/faq). 
